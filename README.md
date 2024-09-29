@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayahamza123
 - 👀 I’m interested in Web development and Devops
-- 🌱 I’m currently a Networks and Telecommunications engineer student
-- 💞️ I’m looking for junior web development position starting from the next October
+- 🌱 Graduated as Networks and Telecommunications engineer specialized on Web development
+- 💞️ I’m looking for intermidiate backend development position starting from the next October.
 - 📫 You can reach through LinkedIn account: https://www.linkedin.com/in/aya-hamza-87b43313b/ 
 
 <!---
